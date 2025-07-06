@@ -8,3 +8,5 @@ Over 25 randomized question possibilities.
 A scorekeeper on the side. 
 A type in the box feature. 
 as well as a submit box. 
+All you need to do is dowload the teo jar files and double clikc on the game window and type in 
+local host to play!!
